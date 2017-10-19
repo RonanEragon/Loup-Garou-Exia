@@ -36,3 +36,13 @@ cmake -G "CodeBlocks - MinGW Makefiles"..
 ```
 Si vous êtes sur CodeBlocks avec le compilateur MinGW
 
+### Contributeurs
+* **Euxiniar**
+
+* **Snargol**
+
+* **Ragnay**
+
+* **Trapadore**
+
+* **Anthime-Didi**
