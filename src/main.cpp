@@ -3,6 +3,6 @@
 int main()
 {
 	std::cout << "Hello World" << std::endl;
-	system("PAUSE");
+	while (getchar() != '\n');
 	return 0;
 }

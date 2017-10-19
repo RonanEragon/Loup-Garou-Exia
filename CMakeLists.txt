@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.1 FATAL_ERROR)
 cmake_policy(VERSION 3.1)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake")
 
-set(NAME LoupGarouVulkan)
+set(NAME LoupGarouExia)
 
 # Your project's name
 project(${NAME})
