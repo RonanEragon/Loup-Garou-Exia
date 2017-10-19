@@ -46,3 +46,5 @@ Si vous êtes sur CodeBlocks avec le compilateur MinGW
 * **Trapadore**
 
 * **Anthime-Didi**
+
+* **Hidehal**
