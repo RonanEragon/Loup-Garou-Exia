@@ -1,14 +1,14 @@
 # Loup-Garou Exia.Cesi
 Création d'un jeu du loup-garou en année A1 à Exia Cesi
 
-### Prerequis
+## Prerequis
 
 Il vous faudra installer 
 - CMake (Ne pas oubier la variable d'environnement à l'installation)
 - Git
 - Un IDE
 
-### Participer au projet
+## Participer au projet
 
 - Tout d'abord, créez votre propre fork vous devez avoir écrit
 ```
@@ -36,7 +36,7 @@ cmake -G "CodeBlocks - MinGW Makefiles"..
 ```
 Si vous êtes sur CodeBlocks avec le compilateur MinGW
 
-### Contributeurs
+## Contributeurs
 * **Euxiniar**
 
 * **Snargol**
