@@ -10,11 +10,10 @@ Il vous faudra installer
 
 ## Participer au projet
 
-- Tout d'abord, créez votre propre fork vous devez avoir écrit
+- Tout d'abord, créez votre propre fork. Votre nom de projet doit être
 ```
 [USER]/Loup-Garou-Exia
 ```
-en nom de projet.
 
 - Ensuite vous devez cloner votre branche à l'endroit choisi
 Ouvre la console et tapez
