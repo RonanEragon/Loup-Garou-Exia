@@ -15,13 +15,13 @@ Il vous faudra installer
 [USER]/Loup-Garou-Exia
 ```
 
-- Ensuite vous devez cloner votre branche à l'endroit choisi
-Ouvre la console et tapez
+- Ensuite vous devez cloner votre branche à l'endroit choisi.
+Ouvrez la console et tapez
 ```
 git clone --recursive https://github.com/Euxiniar/Loup-Garou-Exia.git
 ```
 
-- Pour finir, créez un dossier build, ouvrez la console une fois dedans, et tapez la commande
+- Pour finir, créez un dossier build. Une fois dedans, ouvrez la console et tapez la commande
 ```
 cmake -G "Visual Studio 15 Win64"..
 ```
