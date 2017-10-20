@@ -33,7 +33,14 @@ Si vous êtes sur Visual Studio 2015, ou
 ```
 cmake -G "CodeBlocks - MinGW Makefiles"..
 ```
-Si vous êtes sur CodeBlocks avec le compilateur MinGW
+Si vous êtes sur CodeBlocks avec le compilateur MinGW.
+
+### En cas d'erreur
+- Avec Visual Studio
+Ouvrez Visual Studio installer. Cliquez sur "modifier". Installez le windows 10 SDK (10.0.15063.0) for desktop C++.
+
+- Avec Code::Blocks
+Allez dans le dossier [répertoire codeblock]\MinGW\bin, et copier tous les .dll. Collez les dans [répertoire codeblock]\Mingw32\bin
 
 ## Contributeurs
 * **Euxiniar**
