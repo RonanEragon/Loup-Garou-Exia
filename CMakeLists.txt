@@ -24,8 +24,16 @@ file(GLOB_RECURSE SRC
     "src/*.hpp"
 )
 
+file(GLOB_RECURSE SRC_BEGIN
+    "src/begin/*.cpp"
+    "src/begin/*.h"
+    "src/begin/*.hpp"
+)
+
 # Define the executable
-add_executable(${PROJECT_NAME} ${SRC})
+add_executable(${PROJECT_NAME} ${SRC} ${SRC_BEGIN})
+
+source_group("Begin" FILES ${SRC_BEGIN})
 
 # Enable C++ 14
 if (NOT UNIX)
