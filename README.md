@@ -4,7 +4,7 @@ Création d'un jeu du loup-garou en année A1 à Exia Cesi
 ## Prerequis
 
 Il vous faudra installer 
-- [CMake](https://cmake.org/download/ "link to download CMake") (Ne pas oubier la variable d'environnement à l'installation)
+- [CMake](https://cmake.org/download/ "link to download CMake") (Ne pas oublier la variable d'environnement à l'installation)
 - [Git](https://git-scm.com/downloads "link to download Git")
 - Un IDE
 
