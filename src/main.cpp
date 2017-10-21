@@ -1,8 +1,9 @@
 #include <iostream>
+#include <conio.h>
 
 int main()
 {
 	std::cout << "Hello World" << std::endl;
-	while (getchar() != '\n');
+	_getch();
 	return 0;
 }
