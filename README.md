@@ -4,8 +4,8 @@ Création d'un jeu du loup-garou en année A1 à Exia Cesi
 ## Prerequis
 
 Il vous faudra installer 
-- CMake (Ne pas oubier la variable d'environnement à l'installation)
-- Git
+- [CMake](https://cmake.org/download/ "link to download CMake") (Ne pas oublier la variable d'environnement à l'installation)
+- [Git](https://git-scm.com/downloads "link to download Git")
 - Un IDE
 
 ## Participer au projet
@@ -60,7 +60,11 @@ Allez dans le dossier [répertoire codeblock]\MinGW\bin, et copier tous les .dll
 git add CheminDuFichierDepuisLeFichierCMakeLists/nomDuFichier.Extension
 ```
 
-- Pour sauvegarder vos modifications tapez
+- Pour sauvegarder vos modifications tapez d'abord
+```
+git add src/*
+```
+puis
 ```
 git commit -m "Titre qui explique ce qui a changé"
 ```
