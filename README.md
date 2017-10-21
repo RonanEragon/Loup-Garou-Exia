@@ -60,7 +60,11 @@ Allez dans le dossier [répertoire codeblock]\MinGW\bin, et copier tous les .dll
 git add CheminDuFichierDepuisLeFichierCMakeLists/nomDuFichier.Extension
 ```
 
-- Pour sauvegarder vos modifications tapez
+- Pour sauvegarder vos modifications tapez d'abord
+```
+git add src/*
+```
+puis
 ```
 git commit -m "Titre qui explique ce qui a changé"
 ```
