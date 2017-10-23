@@ -85,7 +85,7 @@ pull request
 ```
 - Donnez un titre approprié à votre répertoire, et une description si necessaire, puis validez.
 
-- Vous n'avez plus qu'à attendre qu'Euxiniar valide ! Si vos modifications ne sont pas *fusionnables*, des informations vous seront donné pour améliorer votre répertoire.
+- Vous n'avez plus qu'à attendre qu'Euxiniar valide ! Si vos modifications ne sont pas *fusionnables*, des informations vous seront données pour améliorer votre répertoire.
 
 ## Contributeurs
 * **Euxiniar**
