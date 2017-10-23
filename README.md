@@ -53,11 +53,11 @@ Ouvrez Visual Studio installer. Cliquez sur "modifier". Installez le windows 10 
 - Avec Code::Blocks
 Allez dans le dossier [répertoire codeblock]\MinGW\bin, et copier tous les .dll. Collez les dans [répertoire codeblock]\Mingw32\bin
 
-## Pour partager vos modifications
+## Pour mettre à jour votre répertoire
 **Si vous êtes sous code::blocks**
 - Pour ajouter des fichiers vous devrez taper 
 ```
-git add CheminDuFichierDepuisLeFichierCMakeLists/nomDuFichier.Extension
+git add src/*.NomDeLExtension
 ```
 
 - Pour sauvegarder vos modifications tapez d'abord
@@ -76,6 +76,16 @@ git push
 
 **Si vous utilisez Visual Studio**
 - Demandez de l'aide à Euxiniar. C'est beaucoup plus simple que sur Code::Blocks rassurez vous ^^
+
+##Pour partager vos modification
+-Allez sur votre répertoire gitHub, et cliquer sur le bouton 
+```
+pull request
+
+```
+- Donnez un titre approprié à votre répertoire, et une description si necessaire, puis validez.
+
+- Vous n'avez plus qu'à attendre qu'Euxiniar valide ! Si vos modifications ne sont pas *fusionnables*, des informations vous seront donné pour améliorer votre répertoire.
 
 ## Contributeurs
 * **Euxiniar**
